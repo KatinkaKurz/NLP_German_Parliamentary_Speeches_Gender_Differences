@@ -14,7 +14,6 @@ This project applies **Natural Language Processing (NLP)** techniques to a datas
 
 ## Repository Structure
 - `NLP_Final_Full_Code.ipynb` – Jupyter Notebook containing the full code for preprocessing, modeling, and evaluation.  
-- (Add any other folders/files here if you plan to include data samples, requirements, or results plots.)
 
 ---
 
